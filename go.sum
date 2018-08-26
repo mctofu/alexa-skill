@@ -1,0 +1,4 @@
+github.com/aws/aws-lambda-go v1.0.1 h1:zTaIkqVJzZIBXm0/3o/UCCWYVA4LeKo/fGBQVTVE2Ro=
+github.com/aws/aws-lambda-go v1.0.1/go.mod h1:zUsUQhAUjYzR8AuduJPCfhBuKWUaDbQiPOG+ouzmE1A=
+github.com/mctofu/alexa-skill v0.0.0-20180122032308-6d25d1e40eb5 h1:rKzV+GE0akr9abV+Lk3GAcdu+7c/OdSKnPpPgUxtpW4=
+github.com/mctofu/alexa-skill v0.0.0-20180122032308-6d25d1e40eb5/go.mod h1:nMUrYm49TlNYQ3pWjw1qjeP6LaBfbRmP54ATyK27xXI=
